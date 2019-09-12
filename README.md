@@ -1,2 +1,3 @@
 # git-javascript
-git-javascript project
+## Catharine Prevost
+
