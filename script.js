@@ -1,2 +1,1 @@
-var <$name> = <Catharine-Prevost>
-    
+var name = 'Catharine Prevost'
