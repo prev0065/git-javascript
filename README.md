@@ -1,3 +1,2 @@
-# git-javascript
+# GitJavascript
 ## Catharine Prevost
-
